@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Логи
+*.log
+logs.txt
+
+# Секреты
+.env
+sessionId.txt
+
+#Эндпоинты
+endpoints.js
